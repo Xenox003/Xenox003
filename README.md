@@ -1,3 +1,7 @@
+<p align="center">
+  Hi, my name is Jonas and i am a Hobby Software Developer from Germany
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=xenox003" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=200&langs_count=6&theme=github_dark&hide_border=true&username=xenox003" height="150" alt="languages graph"  />
