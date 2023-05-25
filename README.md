@@ -1,7 +1,7 @@
 <h2>Hi there!</h2>
 
 <p align="left">
-  My name is Jonas and i am a Hobby Software Developer from Germany
+  My name is Jonas and i am a Software Developer from Germany
 </p>
 
 <div align="left">
