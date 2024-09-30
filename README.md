@@ -1,7 +1,22 @@
 <h2>Hi there!</h2>
 
 <p align="left">
-  My name is Jonas and i am a Software Developer from Germany
+  I am Jonas, a Software Developer from Germany.
+</p>
+<p align="left">
+  My Journey as a Software engineer started when i was around 12 Years old.
+</p>
+<p>
+  I had a passion playing a game called Minecraft. Over time i got more interested in the technical aspects of the game, that got me into the world of Development.
+</p>
+<p>
+  Starting with the development of plugins for Minecraft-Servers, going over to game development with Unity, through the world of ROBLOX game development up to modern and innovative Web technologies my skillset and experience improved massively.
+</p>
+<p>
+  All that got me here now, working as a passionate Full Stack Web Developer at a quite large insitution here in Germany.
+</p>
+<p>
+  My journey is definetly not at it's end though. I constantly get to know new people, new technoligies and aquire new skills over time. Development has been my passion for lots of years now and i hope it ever will be.
 </p>
 
 <div align="left">
@@ -32,3 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52"/>
 </div>
+
+<br/>
+<br/>
+
+<p><i>If i could spread one message to the world, it would be "Never stop going!"</i></p>
